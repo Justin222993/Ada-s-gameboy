@@ -5,6 +5,14 @@ Project Checkpoint 01
 Regine Wang  - 2232176 - Linling0091@hotmail.com
 3.	Done
 4.	Description
+Ada's gameboy is part of the Ada's House game. It is a 2D platformer game. 
+The player controls the protagonist to adventure in a maze composed of furniture, collect nine twisted clocks hidden in the house, and finally pass the level after 
+hanging all the clocks on the tree at the end. During the game, players will transform into furniture in Ada's House and switch to different forms to travel through 
+the maze. Each form can play a role when facing different terrains. For example, when encountering a newspaper obstacle, you can switch to a candle to burn the newspaper to open a passage.
+There is a small amount of dialogue in the game, used for tutorials and hints. In most cases, players can fully explore the maze until all the clocks are collected.
+The main style of the game is tentatively decided to be pixel style. The main direction of our group's will be working on high-quality, interesting puzzles. 
+We hope players can discover the fun of solving puzzles in a short experience.
+
 5.	What does Regine do? - Regine will take care of the layout of the map, the box collisions and the trigger for the player touching certain objects.
 What does Justin do? - I will take care of the player as a whole as well as some animations, the player class, the things they can transform in and the logic on the trigger of touching an object.
 What will we do together? - We will find the artstyle, pixel resolution for the graphical part and make the images together.
